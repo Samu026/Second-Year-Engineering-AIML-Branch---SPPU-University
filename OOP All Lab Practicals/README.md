@@ -1,4 +1,4 @@
-**OOP PRACTICAL LIST**
+**OOP PRACTICAL LIST** (Software - Java, JDK, Notepad, cmd for compiling and run code)
 
 **List of Assignments **
 
